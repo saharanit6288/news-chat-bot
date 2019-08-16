@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+        { 
+            "src": "server.js", 
+            "use": "@now/node" 
+        },
+        {
+          "src": "pages/index.js",
+          "use": "@now/static"
+        }
+    ]
+  }
