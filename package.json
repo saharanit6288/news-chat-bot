@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@zeit/next-css": "^0.1.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "country-data": "0.0.31",
